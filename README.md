@@ -1,10 +1,4 @@
 ## Hi there 👋
-💻 Full Stack Developer from India 🇮🇳 who loves building beautiful UI, scalable backend systems, and interactive web experiences that bring ideas to life.
-🚀 Passionate Full Stack Developer crafting modern, responsive, and user-friendly web experiences with React, Vue, Node.js, and creative animations using GSAP.
-✨ Turning ideas into powerful digital experiences with clean code, modern technologies, and creative frontend animations.
-🚀 Building fast, modern, and interactive web applications with a passion for clean code and creative UI/UX experiences.
-💡 Full Stack Developer passionate about transforming ideas into elegant, scalable, and high-performing digital products.
-🚀 Developer by passion, creator by mindset, and lifelong learner exploring the world of modern web development.
 
 
 <!--<h1 align="center">Hi 👋, I'm Parth</h1>
