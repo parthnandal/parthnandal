@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSzmx5WnDnJw1xNCy29JxKEeb8FqS3LkmOA&s" alt="parthnandal" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSzmx5WnDnJw1xNCy29JxKEeb8FqS3LkmOA&s" alt="parthnandal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
