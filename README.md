@@ -1,12 +1,12 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Parth Nandal</h1>
+<h3 align="center">A passionate frontend developer and backend developer from India|Aspiring software engineer passionate about building impactful web applications.|Designing, building, and breaking things to understand how they work.|A student developer turning logic into lines of code.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthnandal&label=Profile%20views&color=0e75b6&style=flat" alt="parthnandal" /> </p>
 
-<h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A passionate frontend developer and backend developer from India</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthnandal" alt="parthnandal" /></a> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSzmx5WnDnJw1xNCy29JxKEeb8FqS3LkmOA&s" alt="parthnandal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bobby41657" target="blank"><img src="https://img.shields.io/twitter/follow/bobby41657?logo=twitter&style=for-the-badge" alt="bobby41657" /></a> </p>
 
 - 🔭 I’m currently working on **Awesome Projects**
 
@@ -24,6 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bobby41657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bobby41657" height="30" width="40" /></a>
 <a href="https://instagram.com/nandal_.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandal_.01" height="30" width="40" /></a>
 </p>
 
@@ -35,8 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthnandal&show_icons=true&locale=en" alt="parthnandal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthnandal&" alt="parthnandal" /></p>
-
-**parthnandal/parthnandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
